@@ -1,0 +1,269 @@
+[1010/003848.161:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1010/003848.187:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-dfdOJN\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/003848.188:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-dfdOJN\Crashpad\reports\8b919fd9-eaad-475c-b99d-3eccad5734e4.dmp: The system cannot find the path specified. (0x3)
+[1010/003848.188:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/004540.728:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-KVlT0H\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/004540.766:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-KVlT0H\Crashpad\reports\14816f34-80a6-4d1b-b157-62cca2afbf35.dmp: The system cannot find the path specified. (0x3)
+[1010/004540.766:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/021920.284:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-EVCjim\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/021920.287:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-EVCjim\Crashpad\reports\3b37613c-3c48-492a-9133-8d3a70ee0128.dmp: The system cannot find the path specified. (0x3)
+[1010/021920.288:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/022814.502:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1010/022814.517:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-X1SdfN\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/022814.518:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-X1SdfN\Crashpad\reports\26a2ac2d-3370-411e-97e1-e440d97ca4f4.dmp: The system cannot find the path specified. (0x3)
+[1010/022814.518:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/023357.641:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1010/023357.670:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-rtOlEJ\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/023357.671:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-rtOlEJ\Crashpad\reports\e9c7de87-70b2-4318-ad4b-55c835028ae7.dmp: The system cannot find the path specified. (0x3)
+[1010/023357.671:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/024134.680:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1010/024134.684:ERROR:exception_snapshot_win.cc(99)] thread ID 5732 not found in process
+[1010/024134.755:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1010/024134.778:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-9TDL21\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/024134.779:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-9TDL21\Crashpad\reports\b6b30b88-cee8-4efc-bf97-30556c78544a.dmp: The system cannot find the path specified. (0x3)
+[1010/024134.779:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/024449.631:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1010/024449.654:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-WMLnku\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/024449.655:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-WMLnku\Crashpad\reports\6da5f3a1-587c-4bfb-b86e-065c9c62f683.dmp: The system cannot find the path specified. (0x3)
+[1010/024449.655:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/024635.542:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1010/024635.570:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-eoJyoW\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/024635.571:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-eoJyoW\Crashpad\reports\ab72498b-668d-46d4-bdb2-1334eef168e0.dmp: The system cannot find the path specified. (0x3)
+[1010/024635.571:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/024740.667:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-ye5ZjE\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/024740.671:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-ye5ZjE\Crashpad\reports\ff8a4e0a-031f-4c1e-a749-49d5bddcd63c.dmp: The system cannot find the path specified. (0x3)
+[1010/024740.671:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/030849.701:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1010/030849.720:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-vG5WHs\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/030849.721:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-vG5WHs\Crashpad\reports\630fc5c8-c7b8-4014-9362-5409bb7ca229.dmp: The system cannot find the path specified. (0x3)
+[1010/030849.721:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/030950.237:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-RlWnHe\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/030950.245:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-RlWnHe\Crashpad\reports\77321e0c-1a58-4f43-ba72-f581c12a55a3.dmp: The system cannot find the path specified. (0x3)
+[1010/030950.245:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/031423.169:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1010/031423.188:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-kKp6Aj\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/031423.190:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-kKp6Aj\Crashpad\reports\0f086eda-ae8c-4c30-9e6f-7b245474c838.dmp: The system cannot find the path specified. (0x3)
+[1010/031423.191:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/032653.724:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1010/032653.751:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-vwvNTW\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/032653.754:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-vwvNTW\Crashpad\reports\a384f291-e912-483f-8121-cf57b6c59428.dmp: The system cannot find the path specified. (0x3)
+[1010/032653.754:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/032919.147:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1010/032919.172:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-mw0jaz\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/032919.173:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-mw0jaz\Crashpad\reports\c889d4d1-4aaf-4ece-8bbf-46fe74192ced.dmp: The system cannot find the path specified. (0x3)
+[1010/032919.174:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/034402.894:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1010/034402.916:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-uj2gRy\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/034402.917:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-uj2gRy\Crashpad\reports\37a275cc-424e-42fd-bae0-69b6e3e3d945.dmp: The system cannot find the path specified. (0x3)
+[1010/034402.917:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/034736.152:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1010/034736.174:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-Moy33Z\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/034736.175:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-Moy33Z\Crashpad\reports\91725406-b569-48b4-a7b4-719bbd5d46f2.dmp: The system cannot find the path specified. (0x3)
+[1010/034736.175:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/035102.235:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-5kNA3T\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/035102.238:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-5kNA3T\Crashpad\reports\783febe0-19c3-4d1e-8dcf-88e3458adccd.dmp: The system cannot find the path specified. (0x3)
+[1010/035102.238:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/040002.950:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-W7xIOQ\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/040002.953:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-W7xIOQ\Crashpad\reports\a4e300e5-4f67-4fe3-9816-60fa6ff5c60e.dmp: The system cannot find the path specified. (0x3)
+[1010/040002.953:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/040254.165:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1010/040254.184:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-oVgocz\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/040254.185:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-oVgocz\Crashpad\reports\036cc9dc-3842-42db-91d4-31970c778f38.dmp: The system cannot find the path specified. (0x3)
+[1010/040254.185:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/040601.365:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1010/040601.399:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-HoHPDm\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/040601.400:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-HoHPDm\Crashpad\reports\d41bb6d7-7064-4ed0-8309-e286b821a229.dmp: The system cannot find the path specified. (0x3)
+[1010/040601.400:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/043115.571:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1010/043115.590:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-zRs0Fr\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/043115.591:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-zRs0Fr\Crashpad\reports\f7388f18-d843-4caa-b82e-2483c37e34a5.dmp: The system cannot find the path specified. (0x3)
+[1010/043115.591:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/043305.230:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-7LSx7h\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/043305.234:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-7LSx7h\Crashpad\reports\41702071-9484-4a6f-9413-07a696c00be9.dmp: The system cannot find the path specified. (0x3)
+[1010/043305.234:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/043458.171:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1010/043458.197:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-lQYq8I\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/043458.198:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-lQYq8I\Crashpad\reports\ac2de7a7-6495-4ba1-ac7a-eff653908c55.dmp: The system cannot find the path specified. (0x3)
+[1010/043458.198:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/044016.520:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1010/044016.541:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-j9p1u6\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/044016.541:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-j9p1u6\Crashpad\reports\aca258e5-6d58-4b2a-a9a1-2a49af58d076.dmp: The system cannot find the path specified. (0x3)
+[1010/044016.541:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/044706.791:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1010/044706.809:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-ryamTH\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/044706.811:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-ryamTH\Crashpad\reports\e604d110-2877-42c5-ab69-6f468492c31b.dmp: The system cannot find the path specified. (0x3)
+[1010/044706.811:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/054315.902:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-jJXclx\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/054315.902:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-jJXclx\Crashpad\reports\5adaacfa-79b7-45f2-8d4e-9c171d0a08ac.dmp: The system cannot find the path specified. (0x3)
+[1010/054315.902:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/061335.913:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1010/061335.937:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-aB06pI\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/061335.938:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-aB06pI\Crashpad\reports\a3c087b7-e519-4333-9a29-fd3ab77a246d.dmp: The system cannot find the path specified. (0x3)
+[1010/061335.938:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/061510.798:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-9ggq5e\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/061510.801:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-9ggq5e\Crashpad\reports\36322b1b-9926-4df5-8fca-8f4dd81f25be.dmp: The system cannot find the path specified. (0x3)
+[1010/061510.802:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/061621.174:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1010/061621.200:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-255cPc\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/061621.202:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-255cPc\Crashpad\reports\9ecd21f2-f89a-4472-889c-5d8c6fa6d663.dmp: The system cannot find the path specified. (0x3)
+[1010/061621.202:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/061821.517:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1010/061821.537:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-c5QC8l\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/061821.537:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-c5QC8l\Crashpad\reports\5152498e-53a0-4610-814c-22e8ad8a56a7.dmp: The system cannot find the path specified. (0x3)
+[1010/061821.537:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/062046.110:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1010/062046.130:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-tDNQIx\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/062046.131:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-tDNQIx\Crashpad\reports\11a81d98-6e3d-43de-938d-d2b2ac0f4f22.dmp: The system cannot find the path specified. (0x3)
+[1010/062046.131:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/063734.204:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1010/063734.230:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-doBqBu\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/063734.231:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-doBqBu\Crashpad\reports\bf2a9755-e681-4503-b230-5b327b3b34c6.dmp: The system cannot find the path specified. (0x3)
+[1010/063734.231:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/063834.627:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1010/063834.653:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-ToClcw\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/063834.653:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-ToClcw\Crashpad\reports\59a4e577-f39d-42c0-9c30-1116030eadc3.dmp: The system cannot find the path specified. (0x3)
+[1010/063834.653:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/094013.506:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-GfHTlJ\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/094013.510:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-GfHTlJ\Crashpad\reports\39ae720a-4db7-48e5-a323-9629b8ebc2ed.dmp: The system cannot find the path specified. (0x3)
+[1010/094013.510:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/094411.948:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1010/094411.964:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-dApkh9\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/094411.965:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-dApkh9\Crashpad\reports\f637bc78-91aa-4f71-8216-93ba68649878.dmp: The system cannot find the path specified. (0x3)
+[1010/094411.965:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/102156.856:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1010/102156.880:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-aq2hxn\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/102156.880:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-aq2hxn\Crashpad\reports\e3c161ed-8837-46c0-907c-72cc5fc24025.dmp: The system cannot find the path specified. (0x3)
+[1010/102156.880:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/111541.409:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1010/111541.433:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-sBTBEl\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/111541.433:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-sBTBEl\Crashpad\reports\02197bfb-42a0-4b81-9fed-2ad4f480eca2.dmp: The system cannot find the path specified. (0x3)
+[1010/111541.433:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/190503.403:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-hoPPIq\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/190503.421:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-hoPPIq\Crashpad\reports\f8fae4b9-97f7-4c18-b694-b21ee053302d.dmp: The system cannot find the path specified. (0x3)
+[1010/190503.421:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/202524.277:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1010/202524.304:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-J2kwwh\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/202524.306:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-J2kwwh\Crashpad\reports\b6503708-6ff3-4d89-9c82-52de87c5383f.dmp: The system cannot find the path specified. (0x3)
+[1010/202524.306:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/202949.798:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-xigNLQ\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/202949.801:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-xigNLQ\Crashpad\reports\d175eef8-8d0b-4fa2-898d-0df9a4e6900a.dmp: The system cannot find the path specified. (0x3)
+[1010/202949.801:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/203232.913:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1010/203232.930:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-IhyZV0\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/203232.931:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-IhyZV0\Crashpad\reports\09cd824b-c6cd-4db1-b6a1-12bfcd70e9f9.dmp: The system cannot find the path specified. (0x3)
+[1010/203232.931:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/205415.304:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-eA7qtd\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/205415.309:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-eA7qtd\Crashpad\reports\eabfbfc6-25b2-4e9d-a506-e90f62988f80.dmp: The system cannot find the path specified. (0x3)
+[1010/205415.310:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/232615.748:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1010/232615.770:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-wypoqQ\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/232615.771:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-wypoqQ\Crashpad\reports\dd28cebf-621d-4be9-b1b7-1a19174ee208.dmp: The system cannot find the path specified. (0x3)
+[1010/232615.771:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1010/234734.423:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-45GpOV\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1010/234734.464:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-45GpOV\Crashpad\reports\082c32d0-d50d-4b76-ab5d-32124ae54f54.dmp: The system cannot find the path specified. (0x3)
+[1010/234734.464:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1011/000758.303:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-GEEMio\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1011/000758.319:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-GEEMio\Crashpad\reports\24cb1382-0baa-4406-aaf9-97be36017164.dmp: The system cannot find the path specified. (0x3)
+[1011/000758.319:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1011/001004.191:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-QBwfdX\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1011/001004.206:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-QBwfdX\Crashpad\reports\1800ad28-c8e0-42c0-9154-a31b97b4d3d1.dmp: The system cannot find the path specified. (0x3)
+[1011/001004.206:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1011/004417.886:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1011/004417.921:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-39EKAC\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1011/004417.923:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-39EKAC\Crashpad\reports\fea2236d-7513-4265-9db6-067573a9cbb2.dmp: The system cannot find the path specified. (0x3)
+[1011/004417.923:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1011/014939.219:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1011/014939.247:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-4u47AJ\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1011/014939.254:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-4u47AJ\Crashpad\reports\bdd44f29-8724-4e0c-83a8-df7bc2f8b554.dmp: The system cannot find the path specified. (0x3)
+[1011/014939.254:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1011/031326.953:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1011/031327.013:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-xeDgkL\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1011/031327.013:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-xeDgkL\Crashpad\reports\bb4868de-7dd9-433c-8bb5-c77490da131c.dmp: The system cannot find the path specified. (0x3)
+[1011/031327.013:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1011/035018.307:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1011/035018.338:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-X8vUsC\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1011/035018.338:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-X8vUsC\Crashpad\reports\e5a5504b-951c-40a3-b0b0-a38d32a36279.dmp: The system cannot find the path specified. (0x3)
+[1011/035018.338:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1011/185936.444:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-yuTWdc\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1011/185936.480:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-yuTWdc\Crashpad\reports\98da89ea-c679-4795-b0a5-27b0469be468.dmp: The system cannot find the path specified. (0x3)
+[1011/185936.480:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1011/192228.364:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1011/192228.400:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-a4TpNY\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1011/192228.402:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-a4TpNY\Crashpad\reports\1f223a3f-f825-4c6f-9346-7180b9955460.dmp: The system cannot find the path specified. (0x3)
+[1011/192228.402:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1011/221129.959:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1011/221130.024:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-lirBI2\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1011/221130.026:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-lirBI2\Crashpad\reports\12c871f9-dbc3-40ff-bd1c-b2eb4856d918.dmp: The system cannot find the path specified. (0x3)
+[1011/221130.026:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1012/010253.027:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1012/010253.043:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-rAyHnV\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1012/010253.044:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-rAyHnV\Crashpad\reports\2e64e8ba-129f-48a1-80de-40c6439b7c0d.dmp: The system cannot find the path specified. (0x3)
+[1012/010253.044:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1012/025517.481:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1012/025517.519:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-QOBXG5\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1012/025517.519:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-QOBXG5\Crashpad\reports\2e89a61a-9609-4af3-a47d-439cb479680f.dmp: The system cannot find the path specified. (0x3)
+[1012/025517.519:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1012/061612.387:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-bpINQR\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1012/061612.427:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-bpINQR\Crashpad\reports\b61050d5-00a7-4394-b46a-f640bb7a8657.dmp: The system cannot find the path specified. (0x3)
+[1012/061612.431:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1012/065840.774:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1012/065840.805:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-epgvb7\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1012/065840.805:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-epgvb7\Crashpad\reports\49dfb2a5-d8f9-4917-9477-76b7fb029e15.dmp: The system cannot find the path specified. (0x3)
+[1012/065840.805:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1012/070119.382:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-VSy0sV\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1012/070119.388:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-VSy0sV\Crashpad\reports\160997ae-275d-4e58-8aef-9021fc7962a0.dmp: The system cannot find the path specified. (0x3)
+[1012/070119.388:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1012/070221.862:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-x2tT4h\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1012/070221.862:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-x2tT4h\Crashpad\reports\b320bb16-8cab-45d5-bcc1-a9a78795c5a7.dmp: The system cannot find the path specified. (0x3)
+[1012/070221.862:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1012/070316.071:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-214mcC\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1012/070316.077:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-214mcC\Crashpad\reports\31edc944-8154-4069-a7ce-f43456565cf1.dmp: The system cannot find the path specified. (0x3)
+[1012/070316.077:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1012/070532.772:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-QJf4n1\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1012/070532.772:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-QJf4n1\Crashpad\reports\ddc3a5c2-e7f9-40a1-ada6-5393975d43c0.dmp: The system cannot find the path specified. (0x3)
+[1012/070532.772:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1012/185238.739:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-F1bC8I\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1012/185238.743:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-F1bC8I\Crashpad\reports\6097a446-07e7-4a6c-9a74-f2ebf4bc32e7.dmp: The system cannot find the path specified. (0x3)
+[1012/185238.747:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1013/022602.686:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-9YXBOs\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1013/022602.706:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-9YXBOs\Crashpad\reports\de758d5a-089b-4d5e-bc82-47f52d2e1b68.dmp: The system cannot find the path specified. (0x3)
+[1013/022602.707:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1013/025409.185:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-uEPmZg\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1013/025409.189:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-uEPmZg\Crashpad\reports\d44a3b17-ea29-480b-9b37-d696af0f7252.dmp: The system cannot find the path specified. (0x3)
+[1013/025409.189:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1013/030150.762:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-2LTtr9\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1013/030150.774:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-2LTtr9\Crashpad\reports\29eb45ee-ef1a-42ed-a907-cad46019181b.dmp: The system cannot find the path specified. (0x3)
+[1013/030150.774:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1013/030432.151:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-kzTJzq\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1013/030432.159:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-kzTJzq\Crashpad\reports\c05f5e10-b5f3-479e-b151-89c1eb62bf1f.dmp: The system cannot find the path specified. (0x3)
+[1013/030432.159:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1013/055000.083:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1013/055000.159:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-etQECD\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1013/055000.163:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-etQECD\Crashpad\reports\bf3dca3a-f73f-4c4a-acaf-35d2945b1a7a.dmp: The system cannot find the path specified. (0x3)
+[1013/055000.163:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1013/055356.977:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1013/055357.013:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-SCSmGb\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1013/055357.017:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-SCSmGb\Crashpad\reports\23a0a7f1-cdd7-4b92-a8dc-3cdaa2ecb1ed.dmp: The system cannot find the path specified. (0x3)
+[1013/055357.017:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1013/060158.184:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1013/060158.208:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-DHLFwO\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1013/060158.208:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-DHLFwO\Crashpad\reports\7a3d0c24-e3d3-436f-89b2-b17276fabaa3.dmp: The system cannot find the path specified. (0x3)
+[1013/060158.208:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1013/060338.684:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1013/060338.712:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-88uJya\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1013/060338.712:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-88uJya\Crashpad\reports\b07d61d1-6667-48cc-9665-760bb630d9a3.dmp: The system cannot find the path specified. (0x3)
+[1013/060338.712:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1013/060622.907:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-ONNfun\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1013/060622.911:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-ONNfun\Crashpad\reports\a45e7be9-22c1-44cc-88e1-bb0920c665c5.dmp: The system cannot find the path specified. (0x3)
+[1013/060622.911:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1013/061713.562:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1013/061713.594:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-YGqgXi\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1013/061713.598:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-YGqgXi\Crashpad\reports\55649a79-9250-4fcb-b18e-94b83d0eeab4.dmp: The system cannot find the path specified. (0x3)
+[1013/061713.598:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1013/061818.259:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-0EIZ6P\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1013/061818.263:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-0EIZ6P\Crashpad\reports\4724d573-15ae-4400-8839-32f793a71c6a.dmp: The system cannot find the path specified. (0x3)
+[1013/061818.263:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1013/062321.180:ERROR:file_io_win.cc(162)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-spefzx\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1013/062321.188:ERROR:file_io_win.cc(171)] CreateFile C:\Users\alvia\AppData\Local\Temp\puppeteer_dev_chrome_profile-spefzx\Crashpad\reports\fcbe5e08-bb95-46c3-b2ed-012cf4b23f0d.dmp: The system cannot find the path specified. (0x3)
+[1013/062321.188:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1013/080727.376:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
